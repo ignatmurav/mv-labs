@@ -80,10 +80,10 @@ h m_{N-1} + 2h m_N = 6\left(y_N' - \frac{y_N - y_{N-1}}{h}\right).
 
 $\[
 \begin{cases}
-2 m_0 + 1 \cdot m_1 = d_0,\\
-1\cdot m_{i-1} + 4 m_i + 1\cdot m_{i+1} = d_i,\quad i=1,\dots,N-1,\\
-1\cdot m_{N-1} + 2 m_N = d_N,
-\end{cases}
+$2 m_0 + 1 \cdot m_1 = d_0,\\$
+1\cdot m_{i-1} + 4 m_i + 1\cdot m_{i+1} = d_i,$\quad i=1,\dots,N-1,\\$
+1\cdot m_{N-1} + 2 m_N = d_N,$
+$\end{cases}
 \]$
 
 где  
